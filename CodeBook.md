@@ -1,6 +1,6 @@
 ## tidy.txt Code Book Data:
 
-- Subject: Experiment Subject identificatio. type: Factor - Levels(1:30)
+- Subject: Experiment Subject identification. type: Factor - Levels(1:30)
 - Activity: Activity measured by the experiment. type: Factor - Levels (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING,STANDING, LAYING)
 - tBodyAccMeanX: type:Num
 - tBodyAccMeanY: type:Num
