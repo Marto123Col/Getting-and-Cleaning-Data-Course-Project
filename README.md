@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-Run analysis.R rutine do the following Sub processes:
+run_analysis.R rutine do the following Sub processes:
 
 - Read the files
 - Extract the mean and std features
